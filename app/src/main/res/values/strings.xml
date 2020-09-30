@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Ctec Academy</string>
+    <string name="hintUsuario">Usuario: </string>
+    <string name="hintContrasenia">Contraseña: </string>
+    <string name="btnIniciarSesion">Iniciar Sesión </string>
+    <string name="lblIndicacion">INDICACIONES: El usuario es su Código de Estudiante y la contraseña es su número de expediente</string>
+    <string name="lblCopyRight"> © Derechos Reservados 2020</string>
+    <string name="contDescrip1">Logo</string>
+    <string name="contDescrip2">Top</string>
 </resources>
