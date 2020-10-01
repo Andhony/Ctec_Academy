@@ -5,6 +5,29 @@
     <string name="btnIniciarSesion">Iniciar Sesión </string>
     <string name="lblIndicacion">INDICACIONES: El usuario es su Código de Estudiante y la contraseña es su número de expediente</string>
     <string name="lblCopyRight"> © Derechos Reservados 2020</string>
+
     <string name="contDescrip1">Logo</string>
     <string name="contDescrip2">Top</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="usuario">Juan Pablo Pérez Gómez</string>
+    <string name="correo">juanpablito@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="ajustes">Personalizar Perfil</string>
+
+    <string name="perfil">Perfil</string>
+    <string name="horario">Horarios</string>
+    <string name="Notas">Notas</string>
+    <string name="Notificacion">Notificación</string>
+
+    <string name="lblCarrera">CARRERA:</string>
+    <string name="lblCarrera2">Ingeniería en Sistemas Computacionales</string>
+    <string name="lblCodigo">CÓDIGO:</string>
+    <string name="lblCodigo2">PG17-I04-001</string>
+    <string name="lblAnio">AÑO DE INGRESO:</string>
+    <string name="lblAnio2">2017</string>
+    <string name="lblCum">CUM:</string>
+    <string name="lblCum2">8.56</string>
+    <string name="btnVerNotas">Ver Notas</string>
 </resources>
